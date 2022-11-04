@@ -6,5 +6,5 @@ Passionate Web Developer from Zamboanga City, Philippines, You can check my Pers
 - ➤ 🌱 Learning Javascript,React.js and Django.
 - ➤ ⚡ Finished several Projects using PHP.
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,django,php,mysql,sqlite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,django,php,mysql,sqlite,laravel)](https://skillicons.dev)
 
