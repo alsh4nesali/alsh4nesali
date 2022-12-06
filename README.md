@@ -1,6 +1,6 @@
 # Hi, I'm Alshane 👨🏻‍💻👋
 
-Passionate Web Developer from Zamboanga City, Philippines, You can check my Personal Porfolio on https://shanedev.herokuapp.com/, i've been working freelance as a Front End Developer and studying web development since 2020 and, yes..I enjoy every moment of it!
+Passionate Web Developer from Zamboanga City, Philippines, You can check my Personal Porfolio on https://shanedev.netlify.app/, i've been working freelance as a Front End Developer and studying web development since 2020 and, yes..I enjoy every moment of it!
 
 - ➤ 🔭 Currently working on Capstone and Side Projects.
 - ➤ 🌱 Learning Javascript,React.js and Laravel.
