@@ -1,4 +1,4 @@
-# Hi, I'm Alshane 👨🏻‍💻👋
+# Hi, I'm Al-Shane Sali 👨🏻‍💻👋
 
 Front-End Web Developer from Zamboanga City, Philippines, You can check my Personal Porfolio on https://shanedev.netlify.app/, i've been working freelance and studying web development since 2020 and, yes..I enjoy every moment of it!
 
