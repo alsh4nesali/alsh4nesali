@@ -6,5 +6,5 @@ Front-End Web Developer from Zamboanga City, Philippines, You can check my Perso
 - ➤ 🌱 Learning Javascript,React.js and Laravel.
 - ➤ ⚡ Finished several Projects using PHP.
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,django,php,mysql,sqlite,laravel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,django,php,mysql,sqlite,laravel,react)](https://skillicons.dev)
 
